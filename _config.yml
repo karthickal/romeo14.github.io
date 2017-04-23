@@ -23,6 +23,8 @@ twitter_username: romeod143
 github_username:  romeo14
 
 google_analytics: UA-97824158-1
+disqus:
+  shortname: romeo14
 
 # Build settings
 markdown: kramdown
